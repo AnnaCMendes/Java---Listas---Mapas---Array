@@ -3,7 +3,10 @@
 Aprendemos : 
 
 - Listas (Array)
-	List<String> textos = new ArrayList();
+	
+	
+	
+		//List<String> textos = new ArrayList();
 		textos.add("Qualquer coisa");
 		// método de adicionar coisas
 		textos.remove(0);
@@ -34,6 +37,9 @@ Aprendemos :
 		// Não podemos ter elementos repetidos. Se colocar-mos o propio programa irá realizar a remoção dos repetidos.
 
 - Mapas
+		
+		
+		
 		// python - dicionário - todo dicionário funciona com uma tupla {id:valor} json
 		// JAVA - dicionário é mapa 
 		// como criar um MAPA no JAVA
